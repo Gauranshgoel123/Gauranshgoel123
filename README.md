@@ -1,6 +1,7 @@
 ### Hey there 👋
 
-<iframe src="https://giphy.com/embed/f3iwJFOVOwuy7K6FFw" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Pluralsight-man-development-developer-f3iwJFOVOwuy7K6FFw">via GIPHY</a></p>
+![image](https://github.com/Gauranshgoel123/Gauranshgoel123/assets/121503835/d2f40534-0c36-413d-a7aa-6d74ced2e0d3)
+
 
 # 💫 About Me:
 🔭 Full Stack Developer<br>👯 Looking to collaborate on Open Source Projects<br>🌱 Mentee @ JWoC '24   <br>👾 Web Developer @Unibglobal<br>⚡ Junior Council @ NSCC BPIT
