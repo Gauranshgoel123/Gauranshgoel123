@@ -1,6 +1,6 @@
 <p align="center"> 
 #Hey there 👋
-</p>
+
 
 ![giphy](https://github.com/Gauranshgoel123/Gauranshgoel123/assets/121503835/e8d96896-6ea0-408d-9ec5-be409e2ae6ed)
 
@@ -30,4 +30,5 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Gauranshgoel123&icon=7&color=1)](https://visitcount.itsvg.in)
 
+</p>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
