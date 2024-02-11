@@ -7,7 +7,7 @@
 🔭 Full Stack Developer<br>👯 Looking to collaborate on Open Source Projects<br>🌱 Mentee @ JWoC '24   <br>👾 Web Developer @Unibglobal<br>⚡ Junior Council @ NSCC BPIT
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/gauransh0025) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/gauranshhh_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/gauranshgoel123/) [![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)](https://gauranshgoel123.github.io/Gauransh-Portfolio/) [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@gauranshgoel123) [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/gauranshgoel123/)
 
 # 💻 Tech Stack:
@@ -21,7 +21,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Gauranshgoel123&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
 
-### 🔝 Top Contributed Repo
+## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Gauranshgoel123&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
