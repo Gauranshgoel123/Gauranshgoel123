@@ -3,7 +3,7 @@
 ![giphy](https://github.com/Gauranshgoel123/Gauranshgoel123/assets/121503835/e8d96896-6ea0-408d-9ec5-be409e2ae6ed)
 
 # 💫 About Me:
-🔭 Full Stack Developer<br>👯 Looking to collaborate on Open Source Projects<br>🌱 Mentee @ JWoC '24   <br>👾 Web Developer @Unibglobal<br>⚡ Junior Council @ NSCC BPIT
+🔭 Full Stack Developer<br>👯 Looking to collaborate on Open Source Projects<br>🌱 Mentee @ JWoC '24   <br>👾 Web Developer @Unibglobal<br>⚡ Core @ NameSpace 
 
 
 # 🌐 Socials:
