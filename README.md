@@ -24,7 +24,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Gauranshgoel123&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-
+![](https://komarev.com/ghpvc/?username=Gauranshgoel123&color=green)
 [![](https://visitcount.itsvg.in/api?id=Gauranshgoel123&icon=7&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) 
