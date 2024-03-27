@@ -23,8 +23,8 @@
 
 
 
-<!-- ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Gauranshgoel123&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)  -->
+<- ## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Gauranshgoel123&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)  
 
 
 
