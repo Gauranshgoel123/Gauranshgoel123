@@ -132,6 +132,26 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ###
 
+# 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Gauranshgoel123&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)  
+
+
+
+# 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Gauranshgoel123&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+# 👾 Github Activity Graph
+[![Gauransh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Gauranshgoel123&theme=react-dark)](https://github.com/Gauranshgoel123/github-readme-activity-graph)
+---
+
+<!--
+![](https://komarev.com/ghpvc/?username=Gauranshgoel123&color=dc143c&style=for-the-badge)  
+-->
+
+# ❤ Visitor's Count
+[![](https://visitcount.itsvg.in/api?id=Gauranshgoel123&icon=7&color=1)](https://visitcount.itsvg.in)
+
+
 
 ###
 
