@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="210" src="https://github.com/Gauranshgoel123/Gauranshgoel123/assets/121503835/e8d96896-6ea0-408d-9ec5-be409e2ae6ed"  />
+<img align="right" height="220" src="https://github.com/Gauranshgoel123/Gauranshgoel123/assets/121503835/e8d96896-6ea0-408d-9ec5-be409e2ae6ed"  />
 
 ###
 
@@ -19,19 +19,12 @@
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/gauranshgoel123/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://discord.gg/gauransh0025" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
-  <a href="https://solo.to/gauranshgoel" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linktree/default.svg" width="52" height="40" alt="linktree logo"  />
-  </a>
-  <a href="gauranshgoel04@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
+  
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gauranshgoel123/) [![Linktree](https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white)](https://solo.to/gauranshgoel) [![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)](https://gauranshgoel123.github.io/Gauransh-Portfolio/) [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/gauransh0025) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](gauranshgoel04@gmail.com) [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/gauranshgoel123/) [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@gauranshgoel123) [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gauranshgoel123) 
+
+
 </div>
+
 
 ###
 
