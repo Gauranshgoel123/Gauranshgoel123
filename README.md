@@ -119,16 +119,15 @@
 
 <h2 align="left">📊 GitHub Stats:</h2>
 
+###
 
-<h2 align="center">
-![](https://github-readme-stats.vercel.app/api?username=gauranshgoel123&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=gauranshgoel123&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)< align="center" br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=gauranshgoel123&theme=highcontrast&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gauranshgoel123&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-</h2>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
+###
 
 # 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Gauranshgoel123&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)  
