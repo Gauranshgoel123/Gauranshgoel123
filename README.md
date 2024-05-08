@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🔭 Full Stack Developer<br>👯 Looking to collaborate on Open Source Projects<br>🌱 Mentee @ JWoC '24<br>👾 Ex-Intern @ Unibglobal<br>⚡ Core @ NameSpace<br>🤖 Organiser @ HackHazards'24<br>
+<p align="left">🔭 Full Stack Developer<br>👯 Looking to collaborate on Open Source Projects<br>🦾 Currently Learning AI/ML<br>🌱 Mentee @ JWoC'24<br>👽 Contributor @ GSSoC'24<br>👻 Contributor @ SSoC'24<br>👾 Ex-Intern @ Unibglobal<br>⚡ Core @ NameSpace<br>🤖 Organiser @ HackHazards'24<br>
 
 ###
 
