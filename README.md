@@ -1,4 +1,4 @@
-<h1 align="center">Hey there👋</h1>
+<h1 align="center">Hey there 👋</h1>
 
 ###
 
@@ -6,7 +6,7 @@
 
 ###
 
-<h3 align="left">💫 About Me:</h3>
+<h3 align="left">💫 About Me :</h3>
 
 ###
 
@@ -14,7 +14,7 @@
 
 ###
 
-<h2 align="left">🌐 Socials:</h2>
+<h2 align="left">🌐 Socials :</h2>
 
 ###
 
@@ -27,7 +27,7 @@
 
 
 
-<h2 align="left">💻 Tech Stack:</h2>
+<h2 align="left">💻 Tech Stack :</h2>
 
 ###
 
@@ -117,7 +117,7 @@
 
 ###
 
-<h2 align="left">📊 GitHub Stats:</h2>
+<h2 align="left">📊 GitHub Stats :</h2>
 
 ###
 
