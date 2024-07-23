@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🔭 Full Stack Developer<br>👯 Looking to collaborate on Open Source Projects<br>🦾 Currently Learning AI/ML<br>🌱 Mentee @ JWoC'24<br>👽 Contributor @ GSSoC'24<br>👻 ML Intern @ Bharat Electronics Ltd<br>👾 Ex-Intern @ Unibglobal<br>⚡ Core @ nameSpace<br>🤖 Organiser @ HackHazards'24<br>🦾 Treasurer @ WiBD<br>
+<p align="left">🔭 Full Stack Developer<br>👯 Looking to collaborate on Open Source Projects<br>🦾 Currently Working On AI/ML<br>🌱 Mentee @ JWoC'24<br>👽 Contributor @ GSSoC'24<br>👻 ML Intern @ Bharat Electronics Ltd<br>👾 Ex-Intern @ Unibglobal<br>⚡ Core @ nameSpace<br>🤖 Organiser @ HackHazards'24<br>🦾 Treasurer @ WiBD<br>
 
 ###
 
