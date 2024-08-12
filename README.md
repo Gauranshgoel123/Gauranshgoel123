@@ -2,11 +2,11 @@
 
 ###
 
-<img align="right" height="200" src="https://github.com/Gauranshgoel123/Gauranshgoel123/assets/121503835/e8d96896-6ea0-408d-9ec5-be409e2ae6ed"  />
+<img align="right" height="220" src="https://github.com/Gauranshgoel123/Gauranshgoel123/assets/121503835/e8d96896-6ea0-408d-9ec5-be409e2ae6ed"  />
 
 ###
 
-<h2 align="left">💫 About Me:</h2>
+<h3 align="left">💫 About Me:</h3>
 
 ###
 
