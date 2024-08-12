@@ -1,7 +1,7 @@
 <h1 align="center">Hey there 👋</h1>
 
 <h3 align="left">💫 About Me:</h3>
-<img align="right" width="800" height="300" src="https://github.com/Gauranshgoel123/Gauranshgoel123/assets/121503835/e8d96896-6ea0-408d-9ec5-be409e2ae6ed" />
+<img align="right" width="680" height="310" src="https://github.com/Gauranshgoel123/Gauranshgoel123/assets/121503835/e8d96896-6ea0-408d-9ec5-be409e2ae6ed" />
 <p align="left">
    🔭 Full Stack Developer<br>
    👯 Looking to collaborate on Open Source Projects<br>
