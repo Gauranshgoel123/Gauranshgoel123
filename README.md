@@ -6,7 +6,7 @@
 
 ###
 
-<h3 align="left">💫 About Me:</h3>
+<h2 align="left">💫 About Me:</h2>
 
 ###
 
@@ -129,15 +129,15 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ###
 
-# 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Gauranshgoel123&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)  
 
 
 
-# 🔝 Top Contributed Repo
+## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Gauranshgoel123&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-# 👾 Github Activity Graph
+## 👾 Github Activity Graph
 [![Gauransh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Gauranshgoel123&theme=react-dark)](https://github.com/Gauranshgoel123/github-readme-activity-graph)
 ---
 
@@ -145,7 +145,7 @@
 ![](https://komarev.com/ghpvc/?username=Gauranshgoel123&color=dc143c&style=for-the-badge)  
 -->
 
-# 🪶 GSSOC'24 Badges
+## 🪶 GSSOC'24 Badges
 <div style='display:flex; align-items:center; gap: 5px;' align='center'>
 <img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="126px" height="126px" />
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/1.png" width="126px" height="126px" />
@@ -165,6 +165,6 @@
 
 ###
 
-# ❤ Visitor's Count
+## ❤ Visitor's Count
 [![](https://visitcount.itsvg.in/api?id=Gauranshgoel123&icon=7&color=1)](https://visitcount.itsvg.in)
 
