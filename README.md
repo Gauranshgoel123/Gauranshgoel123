@@ -1,20 +1,13 @@
 <h1 align="center">Hey there 👋</h1>
 
 ###
-
 <img align="right" width="470" height="290" src="https://github.com/Gauranshgoel123/Gauranshgoel123/assets/121503835/e8d96896-6ea0-408d-9ec5-be409e2ae6ed"  />
-
 ###
 
 <h3 align="left">💫 About Me:</h3>
-
 ###
-
 <p align="left">🔭 Full Stack Developer<br>👯 Looking to collaborate on Open Source Projects<br>🦾 Artificial Intelligence & Machine Learning<br>👻 ML Intern @ Bharat Electronics Ltd<br>🌱 Mentee @ JWoC'24<br>👽 Contributor @ GSSoC'24<br>👾 Ex-Intern @ Unibglobal<br>⚡ Core @ nameSpace<br>🤖 Organiser @ HackHazards'24<br>🦾 Treasurer @ WiBD<br>
-
 ###
-
-
 
 <h2 align="left">🌐 Socials :</h2>
 
@@ -134,8 +127,6 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Gauranshgoel123&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)  
 
-
-
 ## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Gauranshgoel123&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
@@ -161,10 +152,7 @@
 </div>
 
 ###
-
-
 <img src="https://raw.githubusercontent.com/Gauranshgoel123/Gauranshgoel123/output/snake.svg" alt="Snake animation" />
-
 ###
 
 ## ❤ Visitor's Count
