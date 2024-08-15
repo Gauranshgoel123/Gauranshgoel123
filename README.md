@@ -1,12 +1,17 @@
 <h1 align="center">Hey there 👋</h1>
 
 ###
+
 <img align="right" width="470" height="290" src="https://github.com/Gauranshgoel123/Gauranshgoel123/assets/121503835/e8d96896-6ea0-408d-9ec5-be409e2ae6ed"  />
+
 ###
 
 <h3 align="left">💫 About Me:</h3>
+
 ###
+
 <p align="left">🔭 Full Stack Developer<br>👯 Looking to collaborate on Open Source Projects<br>🦾 Artificial Intelligence & Machine Learning<br>👻 ML Intern @ Bharat Electronics Ltd<br>🌱 Mentee @ JWoC'24<br>👽 Contributor @ GSSoC'24<br>👾 Ex-Intern @ Unibglobal<br>⚡ Core @ nameSpace<br>🤖 Organiser @ HackHazards'24<br>🦾 Treasurer @ WiBD<br>
+  
 ###
 
 <h2 align="left">🌐 Socials :</h2>
@@ -139,6 +144,7 @@
 -->
 
 ## 🪶 GSSOC'24 Badges
+
 <div style='display:flex; align-items:center; gap: 5px;' align='center'>
 <img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="126px" height="126px" />
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/1.png" width="126px" height="126px" />
@@ -152,7 +158,9 @@
 </div>
 
 ###
+
 <img src="https://raw.githubusercontent.com/Gauranshgoel123/Gauranshgoel123/output/snake.svg" alt="Snake animation" />
+
 ###
 
 ## ❤ Visitor's Count
