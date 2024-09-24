@@ -157,6 +157,8 @@
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/8.png" width="126px" height="126px" />
 </div>
 
+[![An image of @gauranshgoel123's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/gauranshgoel123)](https://holopin.io/@gauranshgoel123)
+
 ###
 
 <img src="https://raw.githubusercontent.com/Gauranshgoel123/Gauranshgoel123/output/snake.svg" alt="Snake animation" />
