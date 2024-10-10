@@ -145,6 +145,7 @@
 
 ## 🪶 GSSOC'24 Badges
 
+<!--
 <div style='display:flex; align-items:center; gap: 5px;' align='center'>
 <img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="126px" height="126px" />
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/1.png" width="126px" height="126px" />
@@ -156,6 +157,10 @@
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/7.png" width="126px" height="126px" />
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/8.png" width="126px" height="126px" />
 </div>
+-->
+
+![image](https://github.com/user-attachments/assets/c5695031-1a2a-4881-92f9-c710aa00f865)
+
 
 <!-- [![An image of @gauranshgoel123's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/gauranshgoel123)](https://holopin.io/@gauranshgoel123)
 -->
