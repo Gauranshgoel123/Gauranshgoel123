@@ -121,7 +121,7 @@
 
 ###
 
-[![Gauranshgoel123's GitHub | Stats](https://stats.quira.sh/Gauranshgoel123/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=Gauranshgoel123)![](https://github-readme-stats.vercel.app/api?username=gauranshgoel123&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)![](https://github-readme-streak-stats.herokuapp.com/?user=gauranshgoel123&theme=highcontrast&hide_border=false)![](https://github-readme-stats.vercel.app/api/top-langs/?username=gauranshgoel123&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact) 
+[![Gauranshgoel123's GitHub | Stats](https://stats.quira.sh/Gauranshgoel123/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=Gauranshgoel123)[![Gauranshgoel123's GitHub | Languages Over Time](https://stats.quira.sh/Gauranshgoel123/languages-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=Gauranshgoel123)![](https://github-readme-stats.vercel.app/api?username=gauranshgoel123&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)![](https://github-readme-streak-stats.herokuapp.com/?user=gauranshgoel123&theme=highcontrast&hide_border=false)![](https://github-readme-stats.vercel.app/api/top-langs/?username=gauranshgoel123&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact) 
 <!--
 OTHER QUIRA STATS:
 
