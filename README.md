@@ -126,9 +126,10 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gauranshgoel123&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 [![Gauranshgoel123's GitHub | Stats](https://stats.quira.sh/Gauranshgoel123/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=Gauranshgoel123)
-[![Gauranshgoel123's GitHub | Languages Over Time](https://stats.quira.sh/Gauranshgoel123/languages-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=Gauranshgoel123)
-[![Gauranshgoel123's GitHub | Topics Over Time](https://stats.quira.sh/Gauranshgoel123/topics-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=Gauranshgoel123)
 
+<!-- [![Gauranshgoel123's GitHub | Languages Over Time](https://stats.quira.sh/Gauranshgoel123/languages-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=Gauranshgoel123)
+[![Gauranshgoel123's GitHub | Topics Over Time](https://stats.quira.sh/Gauranshgoel123/topics-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=Gauranshgoel123)
+-->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ###
@@ -167,8 +168,8 @@
 ![image](https://github.com/user-attachments/assets/c5695031-1a2a-4881-92f9-c710aa00f865)
 
 
- [![An image of @gauranshgoel123's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/gauranshgoel123)](https://holopin.io/@gauranshgoel123)
-
+ <!-- [![An image of @gauranshgoel123's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/gauranshgoel123)](https://holopin.io/@gauranshgoel123)
+-->
 
 ###
 
