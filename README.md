@@ -122,8 +122,12 @@
 ###
 
 
-[![Gauranshgoel123's GitHub | Stats](https://stats.quira.sh/Gauranshgoel123/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=Gauranshgoel123)<a href="https://quira.sh?utm_source=widgets&utm_campaign=Gauranshgoel123"><img src="https://stats.quira.sh/Gauranshgoel123/languages-over-time?theme=dark" width="410" /></a>![](https://github-readme-stats.vercel.app/api?username=gauranshgoel123&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)<a href="https://quira.sh?utm_source=widgets&utm_campaign=Gauranshgoel123"><img src="https://stats.quira.sh/Gauranshgoel123/topics-over-time?theme=dark" width="320" /></a>![](https://github-readme-streak-stats.herokuapp.com/?user=gauranshgoel123&theme=highcontrast&hide_border=false)![](https://github-readme-stats.vercel.app/api/top-langs/?username=gauranshgoel123&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact) 
+[![Gauranshgoel123's GitHub | Stats](https://stats.quira.sh/Gauranshgoel123/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=Gauranshgoel123)<a href="https://quira.sh?utm_source=widgets&utm_campaign=Gauranshgoel123"><img src="https://stats.quira.sh/Gauranshgoel123/languages-over-time?theme=dark" width="410" /></a>![](https://github-readme-stats.vercel.app/api?username=gauranshgoel123&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)<a href="https://quira.sh?utm_source=widgets&utm_campaign=Gauranshgoel123"><img src="https://stats.quira.sh/Gauranshgoel123/topics-over-time?theme=dark" width="320" /></a>[![](https://streak-stats.demolab.com?user=DenverCoder1)](https://git.io/streak-stats)![](https://github-readme-stats.vercel.app/api/top-langs/?username=gauranshgoel123&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact) 
+
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=gauranshgoel123&theme=highcontrast&hide_border=false)
 <!--
+
 OTHER QUIRA STATS:
 
 [![Gauranshgoel123's GitHub | Languages Over Time](https://stats.quira.sh/Gauranshgoel123/languages-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=Gauranshgoel123)
