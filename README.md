@@ -152,7 +152,7 @@ OTHER QUIRA STATS:
 ![](https://komarev.com/ghpvc/?username=Gauranshgoel123&color=dc143c&style=for-the-badge)  
 -->
 
-## 🪶 GSSOC'24 Badges
+## 🪶Badges
 
 <!--
 <div style='display:flex; align-items:center; gap: 5px;' align='center'>
@@ -171,8 +171,8 @@ OTHER QUIRA STATS:
 ![image](https://github.com/user-attachments/assets/c5695031-1a2a-4881-92f9-c710aa00f865)
 
 
- <!-- [![An image of @gauranshgoel123's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/gauranshgoel123)](https://holopin.io/@gauranshgoel123)
--->
+[![An image of @gauranshgoel123's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/gauranshgoel123)](https://holopin.io/@gauranshgoel123)
+
 
 ###
 
