@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" width="470" height="290" src="https://github.com/Gauranshgoel123/Gauranshgoel123/assets/121503835/e8d96896-6ea0-408d-9ec5-be409e2ae6ed"  />
+<img align="right" width="470" height="290" src="https://github.com/Gauranshgoel123/Gauranshgoel123/assets/121503835/e8d96896-6ea0-408d-9ec5-be409e2ae6ed" />
 
 ###
 
