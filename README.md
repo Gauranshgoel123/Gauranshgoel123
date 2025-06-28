@@ -10,8 +10,10 @@
   
 ###
 
-<p align="left">👯 Looking to collaborate on Open Source Projects<br>🔭 Full Stack Developer<br> 🦾 Artificial Intelligence & Machine Learning<br>👻 Former ML Intern @ Bharat Electronics Ltd<br>🌱 Mentee @ JWoC'24<br>👽 Contributor @ GSSoC'24 <br> 🥸 Mentor @ GSSoC extd'24 <br>😈 Contributor @ SWoC'24 <br>👾 Ex-Intern @ Unibglobal<br>⚡ Core @ nameSpace<br>🤖 Organiser @ HackHazards'24<br>🦾 Treasurer @ WiBD<br>🥸 Research Analyst <br>🦀 Hacktober'24 <br>
-  
+<p align="left">👯 Looking to collaborate on Open Source Projects<br>🔭 Full Stack Developer<br> 🦾 Artificial Intelligence & Machine Learning<br>👻 Former ML Intern @ Bharat Electronics Ltd<br>🌱 Mentee @ JWoC'24<br>👽 Contributor @ GSSoC'24 <br> 🥸 Mentor @ GSSoC extd'24 👾 Ex-Intern @ Unibglobal<br>⚡ Core @ nameSpace<br>🤖 Organiser @ HackHazards'24<br>🦾 Treasurer @ WiBD<br>🥸 Research Analyst <br>🦀 Hacktober'24 <br>
+
+
+  <!-- <br>😈 Contributor @ SWoC'24 <br> -->
 ###
 
 <h2 align="left">🌐 Socials :</h2>
