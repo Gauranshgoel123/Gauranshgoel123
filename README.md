@@ -34,11 +34,83 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="height:16px;" alt="javascript logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="height:24px;" alt="javascript logo" />
   <img width="6" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="height:16px;" alt="typescript logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="height:24px;" alt="typescript logo" />
   <img width="6" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="height:16px;" alt="react logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="height:24px;" alt="react logo" />
+  <img width="6" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" style="height:24px;" alt="storybook logo" />
+  <img width="6" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" style="height:24px;" alt="azure logo" />
+  <img width="6" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" style="height:24px;" alt="bootstrap logo" />
+  <img width="6" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="height:24px;" alt="c logo" />
+  <img width="6" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" style="height:24px;" alt="canva logo" />
+  <img width="6" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" style="height:24px;" alt="chrome logo" />
+  <img width="6" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" style="height:24px;" alt="cplusplus logo" />
+  <img width="6" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="height:24px;" alt="css3 logo" />
+  <img width="6" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" style="height:24px;" alt="django logo" />
+  <img width="6" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" style="height:24px;" alt="express logo" />
+  <img width="6" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" style="height:24px;" alt="figma logo" />
+  <img width="6" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" style="height:24px;" alt="flutter logo" />
+  <img width="6" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="height:24px;" alt="git logo" />
+  <img width="6" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="height:24px;" alt="github logo" />
+  <img width="6" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" style="height:24px;" alt="gitlab logo" />
+  <img width="6" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" style="height:24px;" alt="googlecloud logo" />
+  <img width="6" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" style="height:24px;" alt="heroku logo" />
+  <img width="6" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="height:24px;" alt="html5 logo" />
+  <img width="6" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="height:24px;" alt="java logo" />
+  <img width="6" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" style="height:24px;" alt="jquery logo" />
+  <img width="6" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" style="height:24px;" alt="jupyter logo" />
+  <img width="6" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="height:24px;" alt="mongodb logo" />
+  <img width="6" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="height:24px;" alt="mysql logo" />
+  <img width="6" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" style="height:24px;" alt="nextjs logo" />
+  <img width="6" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="height:24px;" alt="nodejs logo" />
+  <img width="6" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" style="height:24px;" alt="npm logo" />
+  <img width="6" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" style="height:24px;" alt="oracle logo" />
+  <img width="6" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" style="height:24px;" alt="photoshop logo" />
+  <img width="6" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="height:24px;" alt="postgresql logo" />
+  <img width="6" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="height:24px;" alt="python logo" />
+  <img width="6" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" style="height:24px;" alt="tailwindcss logo" />
+  <img width="6" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" style="height:24px;" alt="threejs logo" />
+  <img width="6" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="height:24px;" alt="vscode logo" />
+  <img width="6" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" style="height:24px;" alt="vuejs logo" />
+  <img width="6" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" style="height:24px;" alt="wordpress logo" />
+  <img width="6" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" style="height:24px;" alt="nuxtjs logo" />
 </div>
 
 
@@ -51,7 +123,16 @@
 ###
 
 
-[![Gauranshgoel123's GitHub | Stats](https://stats.quira.sh/Gauranshgoel123/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=Gauranshgoel123)<a href="https://quira.sh?utm_source=widgets&utm_campaign=Gauranshgoel123"><img src="https://stats.quira.sh/Gauranshgoel123/languages-over-time?theme=dark" width="410" /></a>![](https://github-readme-stats.vercel.app/api?username=gauranshgoel123&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)<a href="https://quira.sh?utm_source=widgets&utm_campaign=Gauranshgoel123"><img src="https://stats.quira.sh/Gauranshgoel123/topics-over-time?theme=dark" width="320" /></a>![](https://github-readme-streak-stats.herokuapp.com/?user=gauranshgoel123&theme=highcontrast&hide_border=false)![](https://github-readme-stats.vercel.app/api/top-langs/?username=gauranshgoel123&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact) 
+[![Gauranshgoel123's GitHub | Stats](https://stats.quira.sh/Gauranshgoel123/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=Gauranshgoel123)
+<a href="https://quira.sh?utm_source=widgets&utm_campaign=Gauranshgoel123">
+<img src="https://stats.quira.sh/Gauranshgoel123/languages-over-time?theme=dark" width="410" />
+</a>
+![](https://github-readme-stats.vercel.app/api?username=gauranshgoel123&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)
+<a href="https://quira.sh?utm_source=widgets&utm_campaign=Gauranshgoel123">
+<img src="https://stats.quira.sh/Gauranshgoel123/topics-over-time?theme=dark" width="320" />
+</a>
+![](https://github-readme-streak-stats.herokuapp.com/?user=gauranshgoel123&theme=highcontrast&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=gauranshgoel123&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact) 
 
 
 
