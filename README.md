@@ -33,6 +33,15 @@
 
 ###
 
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="height:16px;" alt="javascript logo" />
+  <img width="6" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="height:16px;" alt="typescript logo" />
+  <img width="6" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="height:16px;" alt="react logo" />
+</div>
+
+
 ![image](https://github.com/user-attachments/assets/00bc3c9e-c8df-4c22-8825-e7e1db649696)
 
 ###
