@@ -186,6 +186,8 @@ OTHER QUIRA STATS:
 -->
 
 ![image](https://github.com/user-attachments/assets/c5695031-1a2a-4881-92f9-c710aa00f865)
+<img width="500" height="500" alt="SSOC Badge" src="https://github.com/user-attachments/assets/f8c91135-3fe9-490a-93bb-18e12a85e27c" />
+
 
 
 [![An image of @gauranshgoel123's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/gauranshgoel123)](https://holopin.io/@gauranshgoel123)
