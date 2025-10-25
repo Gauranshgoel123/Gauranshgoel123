@@ -186,7 +186,7 @@ OTHER QUIRA STATS:
 -->
 
 ![image](https://github.com/user-attachments/assets/c5695031-1a2a-4881-92f9-c710aa00f865)
-<img width="45" height="45" alt="SSOC Badge" src="https://github.com/user-attachments/assets/f8c91135-3fe9-490a-93bb-18e12a85e27c" />
+<img width="100" height="100" alt="SSOC Badge" src="https://github.com/user-attachments/assets/f8c91135-3fe9-490a-93bb-18e12a85e27c" />
 
 
 
