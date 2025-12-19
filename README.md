@@ -27,8 +27,6 @@
 
 </div>
 
-
-
 <h2 align="left">💻 Tech Stack:</h2>
 
 ###
@@ -141,8 +139,6 @@
 
 
 
-
-
 <!--
 
 OTHER QUIRA STATS:
@@ -152,6 +148,8 @@ OTHER QUIRA STATS:
 -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
 ###
 
 ## 🏆 GitHub Trophies
@@ -160,6 +158,8 @@ OTHER QUIRA STATS:
 <!-- ## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Gauranshgoel123&limit=5&theme=dark&combine_all_yearly_contributions=true)
 -->
+
+
 
 ## 👾 Github Activity Graph
 [![Gauransh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Gauranshgoel123&theme=react-dark)](https://github.com/Gauranshgoel123/github-readme-activity-graph)
