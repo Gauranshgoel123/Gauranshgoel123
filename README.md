@@ -203,8 +203,9 @@ OTHER QUIRA STATS:
 ###
 
 ## ❤ Visitor's Count
+<!--
 [![](https://visitcount.itsvg.in/api?id=Gauranshgoel123&icon=7&color=1)](https://visitcount.itsvg.in)
-
+-->
 
 ![](https://komarev.com/ghpvc/?username=Gauranshgoel123)
 
