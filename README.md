@@ -10,7 +10,7 @@
   
 ###
 
-<p align="left">👯 Looking to collaborate on Open Source Projects<br>🔭 Sofware Developer, AI/ML <br> 🦾 Former SDE Intern @ DMRC, ML Intern @BEL <br>👻 ML Summer School Trainee @ Amazon<br>🌱 Mentee @ JWoC'24<br>👽 Contributor @ GSSoC'24, @Hacktober'24 <br> 🥸 Mentor @ GSSoC extd'24 <br> 👾 Ex-Intern @ Unibglobal, @UDM <br>⚡ Core Member @ nameSpace<br>🤖 Organizer @ HackHazards'24<br>🦾 Treasurer @ WiBD<br>🥸 Research Analyst <br>
+<p align="left">👯 Looking to collaborate on Open Source Projects<br>🔭 Sofware Developer, AI/ML <br> 🦾 Former SDE Intern @ DMRC, ML Intern @BEL <br>👻 ML Summer School Trainee @ Amazon<br>🌱 Mentee @ JWoC'24<br>👽 Contributor @ GSSoC'24, @ Hacktober'24 <br> 🥸 Mentor @ GSSoC extd'24 <br> 👾 Ex-Intern @ Unibglobal, @ UDM <br>⚡ Core Member @namespacecomm<br>🤖 Organizer @ HackHazards'24<br>🦾 Treasurer @ WiBD<br>🥸 Research Analyst <br>
 
 
   <!-- <br>😈 Contributor @ SWoC'24 <br> -->
