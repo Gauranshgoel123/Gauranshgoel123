@@ -132,7 +132,7 @@
 
 
 THIS INCLUDES GITHUB STATS THE GRADE A/B, TOTAL COMMITS,ISSUES,PR LIKE THAT
-
+<!--
 ![](https://github-readme-stats.vercel.app/api?username=gauranshgoel123&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)
 
 <a href="https://quira.sh?utm_source=widgets&utm_campaign=Gauranshgoel123">
@@ -140,7 +140,7 @@ THIS INCLUDES GITHUB STATS THE GRADE A/B, TOTAL COMMITS,ISSUES,PR LIKE THAT
 </a>
 
 
-
+-->
 
 <!--
 
