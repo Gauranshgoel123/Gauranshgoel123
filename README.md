@@ -112,11 +112,15 @@
 
 ![image](https://github.com/user-attachments/assets/00bc3c9e-c8df-4c22-8825-e7e1db649696)
 
+<!-- 
+
 ###
 
 <h2 align="left">📊 GitHub Stats :</h2>
 
 ###
+
+-->
 
 
 <!--
@@ -127,8 +131,20 @@
 -->
 
 
+
+
+
+<!-- THIS IS THE MAIN WORKING STATS ...........................
+
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=gauranshgoel123&theme=highcontrast&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gauranshgoel123&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact) 
+-->
+
+
+
+
+
 
 <!--
 THIS INCLUDES GITHUB STATS THE GRADE A/B, TOTAL COMMITS,ISSUES,PR LIKE THAT
